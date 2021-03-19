@@ -1,15 +1,25 @@
 # web3-study-rss
 
+### new projects to research 
+- https://linear.finance/
+
+
+### focus on for now
+
+- https://github.com/Bitcoin-ABC
+- https://mask.io/
+- https://github.com/dogecoin
+- https://github.com/DODOEX
+
+
 ### coin project examples
 - https://github.com/bitcoin
 - https://github.com/ethereum
-- https://github.com/dogecoin
 - https://github.com/compound-finance
 - https://github.com/stellar
 - https://github.com/omgnetwork
 - https://github.com/dashpay
 - https://github.com/litecoin-project
-- https://github.com/Bitcoin-ABC
 - https://github.com/smartcontractkit
 - https://github.com/filecoin-project
 - https://github.com/paritytech
@@ -20,7 +30,6 @@
 - https://github.com/bandprotocol
 - https://github.com/graphprotocol
 - https://github.com/balancer-labs
-- https://github.com/DODOEX
 - https://github.com/HorizenOfficial
 - https://github.com/gianni-dalerta
 - https://github.com/cardano-foundation
@@ -49,3 +58,6 @@
 ### soft wallet
 
 ### hard wallet
+
+### security
+
