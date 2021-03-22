@@ -2,6 +2,7 @@
 
 ### new projects to research 
 - https://linear.finance/
+- https://www.coinomy.com/
 
 
 ### focus on for now
@@ -50,14 +51,43 @@
 
 ### storage examples
 - https://github.com/ipfs/go-ipfs
+- https://github.com/crustio
 
 ### runtime examples
 - https://github.com/robertmuth/Pytorinox
 - https://github.com/docker-slim/docker-slim
 
-### soft wallet
-
-### hard wallet
+### 3rd wallet
+- https://www.blockchain.com/wallet
+- https://www.safepal.io/
+- https://token.im/
 
 ### security
+
+### Centralization exchange platform
+- https://www.wikiwand.com/en/Mt._Gox (not available for now)
+- https://www.coinbase.com/
+- https://www.bitstamp.net/
+- https://exchange.blockchain.com/
+- https://www.binance.com/
+- https://www.huobi.com/
+- https://www.gemini.com/
+
+### Decentralized exchange platform
+- https://localbitcoins.com/
+
+### others
+- https://www.blockchain.com/explorer
+- https://etherscan.io/
+- https://etherchain.org/
+- https://dogechain.info/
+- https://infura.io/
+- https://blockchair.com/
+- https://finviz.com/
+- https://www.google.com/finance
+- https://coinstats.app/en/
+- https://www.tradingview.com/
+- https://payments.coinswitch.co/
+- https://www.bybt.com/Grayscale
+
 

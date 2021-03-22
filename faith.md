@@ -1,1 +1,2 @@
-- faith 01: respect each other
+- term 01: respect each other
+- term 02: life is soul body money Love Freedom Death
